@@ -1,0 +1,7 @@
+Flask>=2.3
+PyMuPDF>=1.23.8
+pdf2image>=1.17
+pytesseract>=0.3.10
+Pillow>=10.3
+requests>=2.32
+fitz>=0.9.1
