@@ -14,9 +14,9 @@ This project provides two interfaces for working with CAD drawing PDFs:
 - **Image Extraction** – Extracts embedded diagrams from PDF files.
 - **Measurement Parsing & Verification** – Detects dimensions in mm/cm/m/in and verifies formula-based expressions.
 - **Local LLM Integration** – Works with Ollama-hosted models (e.g., `llama3`, `phi`) for summaries and Q&A.
-- **Dual Interface** –  
-  - **Flask App** – Quick upload and summary generation.  
-  - **Gradio App** – Upload + chatbot interaction.
+- **Gradio App** – Upload + chatbot interaction.  
+    
+  
 
 ---
 
