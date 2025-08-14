@@ -79,14 +79,15 @@ python cad_pdf_chatbot.py
 - **Tab 1**: Upload CAD PDF → Extract text & diagrams → Verify measurements  
 - **Tab 2**: Chat with AI assistant using the extracted context
 
----
+<!-- ---
 
 ## 🎥 Demo Video
+
 
 <video width="720" controls>
   <source src="screen_recording/cad_bot_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 ---
 
